@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P1</string>
+    <string name="press_me">Press Me</string>
+    <string name="reset">Reset</string>
+</resources>
